@@ -17,10 +17,12 @@ Data scientist are well equipped to store and clean large amounts of data, explo
 * Knowledge of machine learning.
 
 **What differences/similarities do you see between data scientists and statisticians?** 
+
 Data scientists and statisticians gather information for similar purposes, however their means of data collection are different. Typically data science problems are formulated using a modeling process which focuses on the predictive accuracy of the model. Data scientists do this by comparing the predictive accuracy of different machine learning algorithms and selecting the model with the best accuracy. Statisticians take a different approach to building and testing their models. The starting point in statistics is usually a simple model, such as linear regression, where the data is verified to determine whether it is consistent with the assumptions of the model. The model is improved by addressing assumptions in the model that are violated. The modeling process is considered complete when all model assumptions are verified and no assumptions are violated.
 While data scientists focus on comparing a number of different methods to create the best machine learning model, statisticians rather work to improve a single, simple model to best fit the data.
 Statisticians tend to focus more on quantifying uncertainty than data scientists. As part of the statistical model-building process, it’s common to quantify the connection between the outcome being predicted and each predictor. Any uncertainty about this connection is also quantified. This process is not as common with the tools used by data scientists, namely machine learning.
 
 **How do you view yourself in relation to these two areas?**
+
 As of now I view myself as a statistician. I have good understanding of data collection protocol, violations, running hypothesis tests and linear regression model. In long run I view myself as data scientist. 
 
