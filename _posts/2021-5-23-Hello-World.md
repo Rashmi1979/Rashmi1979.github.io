@@ -3,11 +3,12 @@ layout: post
 title: First Blog Post
 ---
 
-**What do you think being a data scientist is about?  **
+**What do you think being a data scientist is about?**
 
 Data Scientist closely follow “the data science process “that is more approachable data ingest, data transformation, exploratory data analysis, model selection ,model evaluation and data storytelling.When a business needs to answer a question or solo problem, they turn to data scientist who gathers processes and derives valuable insights from the data.Data scientist explore all aspects of the business and develop programs using programming languages to perform robust analytics. When compared to a statistician a data scientist knows a lot more about programming however, when compared to a software engineer, then they they know much more about statistics than coding.
 
 **What do you see as the major duties and/or knowledge areas?**
+
 Data scientist are well equipped to store and clean large amounts of data, explore data sets to identify valuable insights, build predictive models, then run data science projects end-to-end. Data scientist gather data from multiple sources applies machine learning, predictive analysis and sentiment analysis to extract clinical information from the collected data sets. They understand data from a business point of view and can provide accurate predictions that can be used to power critical business decisions. Data scientist need knowledge in the following three departments: analytics, programming and domain knowledge. Following skills will help you carve out as a data scientist.
 * Strong knowledge of python, SAS or, scala
 * Hands-on experience in SQSQL database coding, 
