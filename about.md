@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Rashmi Kadam. I live with my two kids and husband in Cary, North Carolina. I am born and brought up in Pune, India. 
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+* I hold bachelor's degree in Ayurvedic Medicine and Surgery. I have practiced Medicine in India.
+* Currently I am persuing my Masters in Statistics program at NCSU.
+* 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rpkadam@ncsu.edu](mailto:email@domain.com)
