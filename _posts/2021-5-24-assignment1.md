@@ -3,7 +3,7 @@ layout: post
 title: First Blog Post
 ---
 
-**What do you think being a data scientist is about?**
+**What do you think being a Data Scientist is about?**
 
 Data Scientist closely follow “the data science process “that is more approachable data ingest, data transformation, exploratory data analysis, model selection ,model evaluation and data storytelling.When a business needs to answer a question or solo problem, they turn to data scientist who gathers processes and derives valuable insights from the data.Data scientist explore all aspects of the business and develop programs using programming languages to perform robust analytics. When compared to a statistician a data scientist knows a lot more about programming however, when compared to a software engineer, then they they know much more about statistics than coding.
 
