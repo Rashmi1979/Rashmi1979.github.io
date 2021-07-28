@@ -14,4 +14,4 @@ I would definately like to use R as a programming language while doing statistic
 
 **What things are you going to do differently in practice now that you've had this course?**
 
-After taking and almost finishing ST558 course I have become more confident in doing programming in R. I was stuggling in the areas of writing functions and loops before taking ST558. I no more find these areas difficult. Before, I used to do all my work in R-studio using base R packages. Now I am familiar with R markdown and a ery useful package tidyverse. I find it ery easy to use them and implement them doing statistical programs.
+After taking and almost finishing ST558 course I have become more confident in doing programming in R. I was stuggling in the areas of writing functions and loops before taking ST558. I no more find these areas difficult. Before, I used to do all my work in R-studio using base R packages. Now I am familiar with R markdown and a ery useful package tidyverse. I find it very easy to use them and implement them doing statistical programs.
